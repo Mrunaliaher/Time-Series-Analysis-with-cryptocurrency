@@ -67,7 +67,7 @@ This project demonstrates practical implementation of Time Series Forecasting co
 
 ![Overview](screenshots/dashboard1.png)
 
-![Fraud Analysis](screenshots/dashboard2.png)
+![Seasonality and monthly pattern](screenshots/dashboard2.png)
 
-![Trend Analysis](screenshots/dashboard3.png)
+![Daily return and price change analysis](screenshots/dashboard3.png)
 
