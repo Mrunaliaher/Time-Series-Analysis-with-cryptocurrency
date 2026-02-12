@@ -58,6 +58,16 @@ Cryptocurrency-Time-Series-Forecasting/
 - Generated short-term forecasting predictions
 
 ---
+## Dashboard Preview
+
+![Overview](screenshots/dashboard1.png)
+
+![Fraud Analysis](screenshots/dashboard2.png)
+
+![Trend Analysis](screenshots/dashboard3.png)
+
+
+---
 
 ## Conclusion
 This project demonstrates practical implementation of Time Series Forecasting combined with Business Intelligence visualization tools. It integrates Data Science modeling with Power BI analytics for better financial insights.
